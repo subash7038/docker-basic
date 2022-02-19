@@ -1,0 +1,14 @@
+{
+  "name": "hello-docker",
+  "version": "1.0.0",
+  "description": "hello to the world from docker",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Subash",
+  "license": "MIT ",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
